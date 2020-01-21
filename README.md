@@ -2,6 +2,16 @@
 
 tab- help search file within the folder; easier to navigate 
 
+``cd``-change directory
+
+![alt text](./tcs-ss/cd.png)
+#### Note `TAB` key shows Available option
+
+![alt text](./tcs-ss/cdtab.png)
+#### `TAB` to Highlight File
+
+![alt text](./tcs-ss/cdtabhl.png)
+
 ``ls``-list 
 
 ![alt text](./tcs-ss/ls.png)
@@ -17,9 +27,6 @@ tab- help search file within the folder; easier to navigate
 
 ![alt text](./tcs-ss/lsal.png)
 
-``cd``-change directory
-
-![alt text](./tcs-ss/cd.png)
 
 ``pwd``-print working directory 
 
@@ -29,6 +36,10 @@ tab- help search file within the folder; easier to navigate
 ``mkdir``-make directory 
 
 ![alt text](./tcs-ss/mkdir.png)
+
+#### Extra Options *rmdir to remove folder
+
+![alt text](./tcs-ss/rndir.png)
 
 >``p``-create the complete path
 
