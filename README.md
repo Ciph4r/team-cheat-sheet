@@ -66,3 +66,4 @@
 
 ![alt text](./tcs-ss/pp.png)
 
+man **-manual/guide to the specific function
