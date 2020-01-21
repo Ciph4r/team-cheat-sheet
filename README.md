@@ -1,6 +1,6 @@
 # team-cheat-sheet
 
-tab- help search file within the folder; easier to navigate 
+`TAB`- help search file within the folder; easier to navigate 
 
 ``cd``-change directory
 
@@ -65,3 +65,4 @@ tab- help search file within the folder; easier to navigate
 ``..``-one folder up 
 
 ![alt text](./tcs-ss/pp.png)
+
